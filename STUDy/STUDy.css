@@ -1,0 +1,66 @@
+body
+{
+    background-color: rgba(173, 216, 230, 0.46);
+}
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  border: 3px solid #73AD21;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 1.2vw;
+}
+
+h2
+{
+    text-align: center;
+    color: white;
+    background-color: rgba(32, 226, 99, 0.72);
+    font-size: 2vw;
+    font-family: red serif;
+     margin: auto;
+  width: 9%;
+  border: 10px solid #eef5ee;
+  padding: 10px;
+    border-style: inset;
+            
+}
+h2:hover
+{
+    background-color: hotpink;
+}
+
+div.header
+{
+    background-color: #4be6e6;
+    margin: 50px 50px 0px 50px;
+    text-align: center;
+    padding: 1px;
+    border-radius: 25px;
+    font-size: 3vw;
+    
+    }
+
+#para
+{
+    font-size: 1.8vw;
+    
+}
+
+div.check
+a:hover
+{
+    color: aqua;
+}
+
+p.note
+{
+    background-color: black;
+    color:white;
+    font-size:1.3vw;
+    padding:.6%;
+}
+
